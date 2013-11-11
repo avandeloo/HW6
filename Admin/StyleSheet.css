@@ -1,0 +1,53 @@
+﻿
+body {
+    
+  background: url(Pictures/football.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  
+}
+
+.Box {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#h3 {
+    
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#ContactBox {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#LogIn {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Text {
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#DetailsView1
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
